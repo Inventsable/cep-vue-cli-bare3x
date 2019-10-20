@@ -44,13 +44,6 @@ export default {
 </script>
 
 <style>
-#app {
-  -webkit-font-smoothing: antialiased;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-
 /* Various helper styles to match application theme */
 @import url("https://fonts.googleapis.com/css?family=Open+Sans&display=swap");
 :root {
